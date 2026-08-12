@@ -6,6 +6,22 @@ Phantom Access is a safe, browser-based blue-team simulation that demonstrates h
 
 The visitor acts as the incident responder. They replay the intrusion, deploy defenses, investigate correlated evidence, and receive a scored after-action report. All identities, organizations, IP addresses, and events are fictional. No real credentials, cloud tenant, malware, or attack infrastructure are used.
 
+<img width="1280" height="800" alt="Image" src="https://github.com/user-attachments/assets/42b41585-4d05-45b7-9a53-349b86b90842" />
+
+<img width="1280" height="911" alt="Image" src="https://github.com/user-attachments/assets/b6406fa3-92d7-4d8c-90bf-b082e9297d2a" />
+
+<img width="1280" height="911" alt="Image" src="https://github.com/user-attachments/assets/b71110b7-b9ef-42f3-acbf-42be40b6718b" />
+
+<img width="1280" height="911" alt="Image" src="https://github.com/user-attachments/assets/2bd3d7d6-1005-471e-9d08-f69200acbc32" />
+
+<img width="1280" height="911" alt="Image" src="https://github.com/user-attachments/assets/efd149e0-00e5-4563-a2e8-2a0ece9a4671" />
+
+<img width="1280" height="911" alt="Image" src="https://github.com/user-attachments/assets/8dbfd113-65a4-4791-92be-1ef0497e93c6" />
+
+<img width="1280" height="911" alt="Image" src="https://github.com/user-attachments/assets/2e8a13d7-0e19-4476-9f95-bd709b698490" />
+
+<img width="1280" height="911" alt="Image" src="https://github.com/user-attachments/assets/4dc0b5a1-161f-4de7-a52d-099832676c27" />
+
 ## Lab Experience
 
 1. **Mission Brief** — Review the fictional organization, compromised user, objectives, and incident scope.
